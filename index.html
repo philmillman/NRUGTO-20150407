@@ -44,7 +44,7 @@
                 
                     
                         
-    <section data-markdown="slides/slides.md"></section>
+    <section data-markdown="slides/slides.md" data-vertical="\n----\n"></section>
 
 
                     
@@ -67,8 +67,8 @@
                 center: true,
 
                 theme: Reveal.getQueryHash().theme, // available themes are in /css/theme
-                transition: Reveal.getQueryHash().transition || 'default', // default/cube/page/concave/zoom/linear/fade/none
-
+                transition: Reveal.getQueryHash().transition || 'fade', // default/cube/page/concave/zoom/linear/fade/none
+                transitionSpeed: 'slow',
                 // Optional libraries used to extend on reveal.js
                 dependencies: [
                     { src: 'bower_components/reveal.js/lib/js/classList.js', condition: function() { return !document.body.classList; } },
