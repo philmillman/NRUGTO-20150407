@@ -158,7 +158,7 @@ Note:
 ----
 
 ## Performance - Baseline
-![browse 20140324](/img/browse_20140324.png)
+![browse 20140324](http://philmillman.github.io/NRUGTO-20150407/img/browse_20140324.png)
 
 Note:
 - Here's our baseline performance for our Browse app
@@ -167,7 +167,7 @@ Note:
 ----
 
 ## Performance - Today
-![browse 20140324](/img/browse_20150323.png)
+![browse 20140324](http://philmillman.github.io/NRUGTO-20150407/img/browse_20150323.png)
 
 Note: 
 - Here's the same app over a comparable period, a year later
@@ -182,7 +182,7 @@ Note:
 [![http archive][2]][1]
 
 
-[2]: /img/httparchive-20140101vs20150101.png
+[2]: http://philmillman.github.io/NRUGTO-20150407/img/httparchive-20140101vs20150101.png
 [1]: http://httparchive.webpagetest.org/video/compare.php?tests=140101_0_A14-l%3AJan+1+2014%2C150101_0_A5A-l%3AJan+1+2015&thumbSize=200&ival=1000&end=visual "HTTP Archive"
 
 Note:
@@ -194,7 +194,7 @@ Note:
 ----
 
 ## Capacity Planning
-![scalability report](/img/scalability_browse.png)
+![scalability report](http://philmillman.github.io/NRUGTO-20150407/img/scalability_browse.png)
 
 Note: 
 - As an online retailer our year is always about planning for our holiday period
