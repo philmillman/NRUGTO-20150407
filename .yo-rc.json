@@ -1,0 +1,11 @@
+{
+  "generator-reveal": {
+    "presentationTitle": "Performability",
+    "packageVersion": "0.0.1",
+    "revealTheme": "moon",
+    "useSass": false,
+    "deployToGithubPages": true,
+    "githubUsername": "philmillman",
+    "githubRepository": "NRUGTO-20150407"
+  }
+}
