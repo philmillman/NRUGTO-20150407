@@ -4,7 +4,7 @@
 ## Performance & Scalability @ Indigo
 ---
 #### Phil Miller
-#### Manager, UI Development
+#### Manager, DevOps
 #### Indigo Books & Music
 
 
@@ -153,7 +153,7 @@ Note:
 Note:
 - Also present in Stage and QA environments
 - These numbers are our current deployment
-- Done over the last year
+- Done over the last year and a half
 
 ----
 
@@ -228,10 +228,9 @@ Note:
 
 ---
 
-## [We're hiring!](http://www.chapters.indigo.ca/en-ca/careers/careers-at-indigo/)
-* [Email](mailto:pmiller@indigo.ca)
+## Reach out if you have any questions!
 * [LinkedIn](http://ca.linkedin.com/in/themillman)
-* [Twitter](https://twitter.com/philmillman)
+* [Twitter - @philmillman ](https://twitter.com/philmillman)
  
 
 
